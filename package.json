@@ -16,6 +16,7 @@
     "ios:clear": "rm -rf ios/build"
   },
   "dependencies": {
+    "axios": "^1.1.2",
     "react": "17.0.2",
     "react-native": "0.68.1",
     "react-native-config": "^1.4.5"
